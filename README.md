@@ -1,6 +1,6 @@
 # Refresh in C & Bash Programming
 
-Lectures for Refresh in C & Bash Programming, Igor Sikorsky Kyiv Polytechnic Institute, Spring 2025.
+Lectures for [Refresh in C & Bash Programming](https://ai4ci.eu/course/refresh-in-c-bash-programming/), Igor Sikorsky Kyiv Polytechnic Institute, Spring 2025.
 
 <!-- - Instructor: Yuriy Kochura -->
 - When: every Thursday at xx:xx PM by Kyiv time 
