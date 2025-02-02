@@ -2,11 +2,11 @@
 
 Lectures for Refresh in C & Bash Programming, Igor Sikorsky Kyiv Polytechnic Institute, Spring 2025.
 
-- Instructor: Yuriy Kochura
+<!-- - Instructor: Yuriy Kochura -->
 - When: every Thursday at xx:xx PM by Kyiv time 
 - Classroom:  Virtual in-class lectures (access via [BigBlueButton]())
 - Discussion: All course announcements take place on Telegram
-- Contact: [iuriy.kochura@gmail.com](mailto:iuriy.kochura@gmail.com)
+<!-- - Contact: [iuriy.kochura@gmail.com](mailto:iuriy.kochura@gmail.com) -->
 
 ## Agenda
 
