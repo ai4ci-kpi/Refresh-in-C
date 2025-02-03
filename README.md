@@ -15,6 +15,8 @@ Lectures for [Refresh in C & Bash Programming](https://ai4ci.eu/course/refresh-i
 | February  |  Lecture 1: [C Basics](https://ai4ci-kpi.github.io/Refresh-in-C/presentations/Lecture_1_C_Basics.slides.html#/) [[.ipynb](https://github.com/ai4ci-kpi/Refresh-in-C/blob/main/Lecture_1_C_Basics.ipynb)] [[PDF](https://github.com/ai4ci-kpi/Refresh-in-C/blob/main/pdf/Lecture_1_C_Basics-1.pdf)] [[video1](https://www.youtube.com/watch?v=dTp0c41XnrQ)] [[video2](https://www.youtube.com/watch?v=aP1ijjeZc24)]|
 | February | Lecture 2: [Memory Management](https://ai4ci-kpi.github.io/Refresh-in-C/presentations/Lecture_2_Memory_Management.slides.html#/) [[.ipynb](https://github.com/ai4ci-kpi/Refresh-in-C/blob/main/Lecture_2_Memory_Management.ipynb)] [[PDF](https://github.com/ai4ci-kpi/Refresh-in-C/blob/main/pdf/Lecture_2_Memory_Management.pdf)] [[video1](https://www.youtube.com/watch?v=_8-ht2AKyH4)] [[video2](https://www.youtube.com/watch?v=5OJRqkYbK-4)][[video3](https://www.youtube.com/watch?v=xDVC3wKjS64)] <br> Exercises 1:  |
 | February  |  Lecture 3: [File Access and Pipes](https://ai4ci-kpi.github.io/Refresh-in-C/presentations/Lecture_3_File_Access_and_Pipes.slides.html#/) [[.ipynb](https://github.com/ai4ci-kpi/Refresh-in-C/blob/main/Lecture_3_File_Access_and_Pipes.ipynb)] [[PDF](https://github.com/ai4ci-kpi/Refresh-in-C/blob/main/pdf/Lecture_3_File_Access_and_Pipes.pdf)] [[video1](https://www.youtube.com/watch?v=Mqb2dVRe0uo)]  |
+| February  |  Lecture 4: [Signals and return values]() [[PDF]()] |
+| February  |  Lecture 5: [Introduction]() [[PDF]()] |
 
 
 <!-- | February  |  Lecture 1: [Introduction][] [[PDF][]] | -->
