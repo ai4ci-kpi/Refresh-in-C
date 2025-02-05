@@ -3,8 +3,8 @@
 Lectures for [Refresh in C & Bash Programming](https://ai4ci.eu/course/refresh-in-c-bash-programming/), Igor Sikorsky Kyiv Polytechnic Institute, Spring 2025.
 
 <!-- - Instructor: Yuriy Kochura -->
-- When: every Thursday at xx:xx PM by Kyiv time 
-- Classroom:  Virtual in-class lectures (access via [BigBlueButton]())
+- 🕒 When: every Thursday at xx:xx PM by Kyiv time 
+- 🌐 Classroom:  Virtual in-class lectures (access via [BigBlueButton]())
 - Discussion: All course announcements take place on Telegram
 <!-- - Contact: [iuriy.kochura@gmail.com](mailto:iuriy.kochura@gmail.com) -->
 
